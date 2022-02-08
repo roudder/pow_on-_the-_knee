@@ -68,4 +68,5 @@ func main() {
 			resp.Body.Close()
 		}
 	}
+	defer resp.Body.Close()
 }
