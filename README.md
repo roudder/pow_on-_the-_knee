@@ -1,5 +1,5 @@
 # pow_on-_the-_knee
-just simple implementation proof of work
+just simple implementation proof of work (hashcash)
 
 server:
 (under the powserver dir)
